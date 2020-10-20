@@ -190,7 +190,7 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 1
+              "opacity": 0.5
             },
 
             "events": {
@@ -203,7 +203,7 @@
 
             "transform": {
               "position": {
-                "theta": -179,
+                "theta": 0,
                 "phi": -11,
                 "radius": 500
               },
@@ -283,7 +283,7 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 1
+              "opacity": 0.5
             },
 
             "events": {
@@ -317,7 +317,7 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 1
+              "opacity": 0.5
             },
 
             "events": {

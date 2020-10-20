@@ -42,9 +42,9 @@
 
             "transform": {
               "position": {
-                "theta": 170,
+                "theta": 190,
                 "phi": -15,
-                "radius": 400
+                "radius": 300
               },
 
               "rotation": {

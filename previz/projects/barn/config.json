@@ -42,7 +42,7 @@
 
             "transform": {
               "position": {
-                "theta": 10,
+                "theta": 15,
                 "phi": -15,
                 "radius": 300
               },
@@ -204,7 +204,7 @@
             "transform": {
               "position": {
                 "theta": 0,
-                "phi": -11,
+                "phi": -8,
                 "radius": 500
               },
 

@@ -42,8 +42,8 @@
 
             "transform": {
               "position": {
-                "theta": 180,
-                "phi": 0,
+                "theta": 170,
+                "phi": -15,
                 "radius": 400
               },
 

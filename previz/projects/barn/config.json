@@ -246,7 +246,7 @@
 
           "source": {
             "format": "equi",
-            "url": "https://cdn.forgejs.org/samples/hotspots-actions/pano-2.jpg"
+            "url": "./img/render-cam2.jpg"
           }
         },
 

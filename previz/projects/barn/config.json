@@ -105,18 +105,6 @@
             }
           },
 
-            "material": {
-              "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 0.5
-            },
-
-            "events": {
-              "onClick": ["action-loadscene-4", "action-camera-2"]
-            }
-          }
-        ]
-      },
-
       {
         "uid": "scene-1",
         "name": "Second scene",

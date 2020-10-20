@@ -169,8 +169,8 @@
 
             "transform": {
               "position": {
-                "theta": 118,
-                "phi": -6,
+                "theta": -90,
+                "phi": -22,
                 "radius": 700
               },
 
@@ -190,7 +190,7 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 0.5
+              "opacity": 1
             },
 
             "events": {

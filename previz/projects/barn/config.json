@@ -43,7 +43,7 @@
             "transform": {
               "position": {
                 "theta": -150,
-                "phi": -15,
+                "phi": -22,
                 "radius": 300
               },
 
@@ -75,8 +75,8 @@
 
             "transform": {
               "position": {
-                "theta": 82,
-                "phi": -8,
+                "theta": -120,
+                "phi": -20,
                 "radius": 700
               },
 
@@ -97,37 +97,13 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 0.5
+              "opacity": 1
             },
 
             "events": {
-              "onClick": ["action-loadscene-3", "action-camera-1"]
+              "onClick": ["action-loadscene-2", "action-camera-1"]
             }
           },
-
-          {
-            "uid": "hotspot-s0-2",
-
-            "transform": {
-              "position": {
-                "theta": 141,
-                "phi": -8,
-                "radius": 700
-              },
-
-              "rotation": {
-                "x": 85,
-                "y": -141
-              }
-            },
-
-            "geometry": {
-              "type": "plane",
-              "options": {
-                "width": 100,
-                "height": 100
-              }
-            },
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
@@ -262,8 +238,8 @@
 
             "transform": {
               "position": {
-                "theta": 110,
-                "phi": -8,
+                "theta": 45,
+                "phi": -22,
                 "radius": 500
               },
 
@@ -296,8 +272,8 @@
 
             "transform": {
               "position": {
-                "theta": 2,
-                "phi": -11,
+                "theta": -22,
+                "phi": -5,
                 "radius": 600
               },
 
@@ -317,11 +293,11 @@
 
             "material": {
               "image": "https://cdn.forgejs.org/samples/hotspots-actions/ChevronUpCircle_white_64.png",
-              "opacity": 0.5
+              "opacity": 1
             },
 
             "events": {
-              "onClick": ["action-loadscene-3", "action-camera-6"]
+              "onClick": ["action-loadscene-0", "action-camera-6"]
             }
           }
         ]
